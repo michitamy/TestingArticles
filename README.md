@@ -14,6 +14,7 @@ Codecademy for Javascript -> https://www.codecademy.com/catalog/language/javascr
 
 **Articles**
 11 best practices for Cypress automation -> https://proshore.eu/11-best-practices-for-cypress-automation/#4-%EF%B8%8F-always-implement-a-pom-logger
+33 Concepts Every JavaScript Developer Should Know -> https://github.com/leonardomso/33-js-concepts
 
 **Examples**
 TestCases and Templates for Manual Software Testing -> https://github.com/mfaisalkhatri/Manual_Testing/blob/master/Templates/Generic_Field_Validation_Testcases_.xlsx
