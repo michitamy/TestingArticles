@@ -1,2 +1,21 @@
 # TestingArticles
 Repository with documentation about techniques, best practices, command sheets, and articles.
+
+
+
+Official Documentation
+Cypress -> https://docs.cypress.io/guides/overview/why-cypress
+
+
+Free Tutorial
+w3schools for Javascript -> https://my-learning.w3schools.com/tutorial/js
+
+
+Articles
+11 best practices for Cypress automation -> https://proshore.eu/11-best-practices-for-cypress-automation/#4-%EF%B8%8F-always-implement-a-pom-logger
+
+Examples
+TestCases and Templates for Manual Software Testing -> https://github.com/mfaisalkhatri/Manual_Testing/blob/master/Templates/Generic_Field_Validation_Testcases_.xlsx
+
+Extra tools
+Tool to generate and validate Regular expressions -> https://regex101.com/
