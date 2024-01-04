@@ -9,6 +9,7 @@ Cypress -> https://docs.cypress.io/guides/overview/why-cypress
 
 **Free Tutorial**
 w3schools for Javascript -> https://my-learning.w3schools.com/tutorial/js
+Codecademy for Javascript -> https://www.codecademy.com/catalog/language/javascript
 
 
 **Articles**
@@ -19,3 +20,6 @@ TestCases and Templates for Manual Software Testing -> https://github.com/mfaisa
 
 **Extra tools**
 Tool to generate and validate Regular expressions -> https://regex101.com/
+
+
+Selenium Asserts sheet -> https://www.selenium.dev/selenium/docs/api/py/webdriver_support/selenium.webdriver.support.expected_conditions.html#module-selenium.webdriver.support.expected_conditions
