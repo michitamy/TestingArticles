@@ -6,18 +6,21 @@ Repository with documentation about techniques, best practices, command sheets, 
 **Official Documentation**
 
 Cypress -> https://docs.cypress.io/guides/overview/why-cypress
+
 JUnit -> https://junit.org/junit5/docs/current/user-guide/
 
 
 **Free Tutorial**
 
 w3schools for Javascript -> https://my-learning.w3schools.com/tutorial/js
+
 Codecademy for Javascript -> https://www.codecademy.com/catalog/language/javascript
 
 
 **Articles**
 
 11 best practices for Cypress automation -> https://proshore.eu/11-best-practices-for-cypress-automation/#4-%EF%B8%8F-always-implement-a-pom-logger
+
 33 Concepts Every JavaScript Developer Should Know -> https://github.com/leonardomso/33-js-concepts
 
 9 Best practices for QA testing implementation -> https://www.globalapptesting.com/best-practices-for-qa-testing
