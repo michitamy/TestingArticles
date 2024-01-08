@@ -23,9 +23,11 @@ Codecademy for Javascript -> https://www.codecademy.com/catalog/language/javascr
 
 33 Concepts Every JavaScript Developer Should Know -> https://github.com/leonardomso/33-js-concepts
 
-9 Best practices for QA testing implementation -> https://www.globalapptesting.com/best-practices-for-qa-testing
+14 Software testing best practices to develop high-quality product (November 2023) -> https://www.globalapptesting.com/blog/software-testing-best-practices
 
-QA Training: Everything You Need to Know to Start -> https://www.dice.com/career-advice/qa-training-everything-you-need-to-know-to-start
+QA Training: Everything You Need to Know to Start (Sep 21, 2022) -> https://www.dice.com/career-advice/qa-training-everything-you-need-to-know-to-start
+
+20 Selenium Tips and Tricks for Efficient Testing (JUNE 9, 2023) -> https://technologyforlearners.com/20-selenium-tips-and-tricks-for-efficient-testing/
 
 **Examples**
 
